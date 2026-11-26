@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://luciana-campos-caraguatatuba.genuinehill4.chatgpt.site/sitemap.xml
+Sitemap: https://campos-massoterapeuta.pages.dev/sitemap.xml
